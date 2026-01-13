@@ -94,7 +94,7 @@ This repository exists to:
   <summary>
     <h2 align="center"> 2. Dev Studio Web Demo – White Edition </h2>
     <p align="center">
-    <img src="https://i.pinimg.com/originals/c0/f2/ed/c0f2ed6038c00791e768dde7a2e635d7.png" alt="DevStudio Web Demo" width="1200">
+    <img src="https://i.pinimg.com/originals/c0/f2/ed/c0f2ed6038c00791e768dde7a2e635d7.png" alt="DevStudio Web Demo" width="1200" style="border-radius:100px">
     </p>
   </summary>
 

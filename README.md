@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  A central showcase of all the websites, web experiments, and UI builds I create from simple static pages to full interactive web experiences   💻✨
+  ✨ A central showcase of the websites, web experiments, and UI builds I create from simple static pages to full interactive web experiences ✨
 </p>
 
-## ✨ About This Repository
+## ℹ About This Repository
 
 **Dev Web Builds** is my **main website showcase repository**.
 This repo acts as a living archive of almost everything I build as website including:
@@ -47,13 +47,13 @@ This repository exists to:
 <details>
   <summary>
     <h2 align="center" style="color:#0d6efd;"> 1. Shourav WebTech - Version 1 </h2>
-    <p align="center">
-    <img src="https://i.pinimg.com/originals/5b/4b/25/5b4b25d56d7a0aa0e9f9c8a31113e1f9.png" alt="Shourav Webtech" width="1200">
-    </p>
+
   </summary>
 
   <br>
-
+    <p align="center">
+    <img src="https://i.pinimg.com/originals/5b/4b/25/5b4b25d56d7a0aa0e9f9c8a31113e1f9.png" alt="Shourav Webtech" width="1200">
+    </p>
 
   ### Overview
   **Shourav WebTech - V1** is an interactive front-end showcase website that demonstrates how modern web interfaces can be built quickly and efficiently using Bootstrap 5. The project focuses on visually rich components, smooth interactions, and responsive design without heavy custom JavaScript. 
@@ -93,13 +93,13 @@ This repository exists to:
 <details>
   <summary>
     <h2 align="center"> 2. Dev Studio Web Demo – White Edition </h2>
-    <p align="center">
-    <img src="https://i.pinimg.com/originals/c0/f2/ed/c0f2ed6038c00791e768dde7a2e635d7.png" alt="DevStudio Web Demo" width="1200" style="border-radius:100px">
-    </p>
+
   </summary>
 
   <br>
-
+    <p align="center">
+    <img src="https://i.pinimg.com/originals/c0/f2/ed/c0f2ed6038c00791e768dde7a2e635d7.png" alt="DevStudio Web Demo" width="1200" style="border-radius:100px">
+    </p>
   ### Overview
   **DevStudio Web Demo – White Edition** is a modern, conversion-focused one-page website designed to showcase a professional web service offering. It demonstrates how a clean UI, structured content, and strong call-to-action elements can be combined to turn visitors into potential clients using Bootstrap 5 and best-practice front-end development techniques. 
   
@@ -139,13 +139,13 @@ This repository exists to:
 <details>
   <summary>
     <h2 align="center">3. Dev Studio Web Demo – Neon Edition</h2>
-    <p align="center">
-      <img src="https://i.pinimg.com/originals/7f/7b/c0/7f7bc05cb1a3a1f5e7596deb5defdffd.png" alt="DevStudio Web Demo Neon" width="1200">
-    </p>
+
   </summary>
 
   <br>
-
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/7f/7b/c0/7f7bc05cb1a3a1f5e7596deb5defdffd.png" alt="DevStudio Web Demo Neon" width="1200">
+    </p>
   ### Overview
   **DevStudio Web Demo – Neon Edition** is a visually striking, dark-themed one-page website designed to showcase a modern service-based web layout with a bold neon aesthetic. It highlights how vibrant gradients, glowing UI elements, and interactive components can be combined to create an engaging user experience using **Bootstrap 5**.
   
@@ -184,13 +184,13 @@ This repository exists to:
 <details>
   <summary>
     <h2 align="center">4. Dev Studio Web Demo – Premium Blue Edition</h2>
-    <p align="center">
-      <img src="https://i.pinimg.com/originals/cf/2e/58/cf2e58307dda24cf21c8f411aeb8dff5.png" alt="DevStudio Web Demo Premium Blue" width="1200">
-    </p>
+
   </summary>
 
   <br>
-
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/cf/2e/58/cf2e58307dda24cf21c8f411aeb8dff5.png" alt="DevStudio Web Demo Premium Blue" width="1200">
+    </p>
   ### Overview
   **DevStudio Web Demo – Premium Blue Edition** is a high-end, conversion-optimized one-page website designed for businesses that want a polished, premium digital presence. This edition focuses on clarity, trust, and performance, combining a deep blue dark theme with glassmorphism effects and strong call-to-action elements, all built using **Bootstrap 5** and modern front-end best practices.
   

@@ -48,7 +48,7 @@ This repository exists to:
   <summary>
     <h2 align="center" style="color:#0d6efd;"> 1. Shourav WebTech - Version 1 </h2>
     <p align="center">
-    <img src="https://i.pinimg.com/originals/5b/4b/25/5b4b25d56d7a0aa0e9f9c8a31113e1f9.png" alt="Shourav Webtech" width="800">
+    <img src="https://i.pinimg.com/originals/5b/4b/25/5b4b25d56d7a0aa0e9f9c8a31113e1f9.png" alt="Shourav Webtech" width="1200">
     </p>
   </summary>
 
@@ -91,7 +91,7 @@ This repository exists to:
   <summary>
     <h2 align="center"> 2. Dev Studio Web Demo – White Edition </h2>
     <p align="center">
-    <img src="https://i.pinimg.com/originals/c0/f2/ed/c0f2ed6038c00791e768dde7a2e635d7.png" alt="DevStudio Web Demo" width="800">
+    <img src="https://i.pinimg.com/originals/c0/f2/ed/c0f2ed6038c00791e768dde7a2e635d7.png" alt="DevStudio Web Demo" width="1200">
     </p>
   </summary>
 

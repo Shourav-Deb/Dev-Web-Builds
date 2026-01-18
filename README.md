@@ -100,6 +100,7 @@ This repository exists to:
     <p align="center">
     <img src="https://i.pinimg.com/originals/c0/f2/ed/c0f2ed6038c00791e768dde7a2e635d7.png" alt="DevStudio Web Demo" width="1200" style="border-radius:100px">
     </p>
+    
   ### Overview
   **DevStudio Web Demo – White Edition** is a modern, conversion-focused one-page website designed to showcase a professional web service offering. It demonstrates how a clean UI, structured content, and strong call-to-action elements can be combined to turn visitors into potential clients using Bootstrap 5 and best-practice front-end development techniques. 
   
@@ -146,6 +147,7 @@ This repository exists to:
     <p align="center">
       <img src="https://i.pinimg.com/originals/7f/7b/c0/7f7bc05cb1a3a1f5e7596deb5defdffd.png" alt="DevStudio Web Demo Neon" width="1200">
     </p>
+    
   ### Overview
   **DevStudio Web Demo – Neon Edition** is a visually striking, dark-themed one-page website designed to showcase a modern service-based web layout with a bold neon aesthetic. It highlights how vibrant gradients, glowing UI elements, and interactive components can be combined to create an engaging user experience using **Bootstrap 5**.
   
@@ -191,7 +193,9 @@ This repository exists to:
     <p align="center">
       <img src="https://i.pinimg.com/originals/cf/2e/58/cf2e58307dda24cf21c8f411aeb8dff5.png" alt="DevStudio Web Demo Premium Blue" width="1200">
     </p>
+    
   ### Overview
+  
   **DevStudio Web Demo – Premium Blue Edition** is a high-end, conversion-optimized one-page website designed for businesses that want a polished, premium digital presence. This edition focuses on clarity, trust, and performance, combining a deep blue dark theme with glassmorphism effects and strong call-to-action elements, all built using **Bootstrap 5** and modern front-end best practices.
   
   **Access Site:** <a href="https://devstudio-bootstrap-v3.onrender.com/" target="_blank" rel="noopener noreferrer" style="color:#2aa4ff; font-weight:600;">

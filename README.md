@@ -231,4 +231,30 @@ This repository exists to:
 
 </details>
 
+
+<details>
+  <summary>
+    <h2 align="center">5. DESCO Hero Clone</h2>
+
+  </summary>
+
+  <br>
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/47/81/54/4781548c2aa24c0af197bfe801f63e61.png" alt="DevStudio Web Demo Neon" width="1200">
+    </p>
+    
+  ### ⏩ Overview
+  **DESCO Hero Clone** is a clone of DESCO website hero section. I find this govt. page interactive so I tried to create it.
+  
+  **Access Site:** <a href="https://ocsms.desco.org.bd/login/" target="_blank" rel="noopener noreferrer" style="color:#00ccff; font-weight:600;">
+    Real Site
+  </a>
+   & <a href="https://desco-hero-clone.onrender.com/" target="_blank" rel="noopener noreferrer" style="color:#00ccff; font-weight:600;">
+    My Recreated Site
+  </a>
+
+  ### ⏩ Purpose of This Project
+  This project is solely a personal learning exercise intended to elevate my design and development skills. By recreating an existing site’s layout, I’m testing my ability to replicate professional designs. It is       not intended for any unauthorized use. It's strictly for practice and self-improvement.
+</details>
+
 ---

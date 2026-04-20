@@ -38,10 +38,9 @@ This repository exists to:
 - 🧪 Experiment with layouts, UI ideas, and interactions  
 - 🌍 Serve as a live reference for my personal website and portfolio  
 
----
 
 ## 🗂 Projects
-> 📱 Click the title of any project to see the description. Some project sites may go to sleep when not in use. Just access the site and give it a minute to wake up. It will be online again shortly.
+> 📱 Click the title of any project to see the description. Some project sites may go to sleep when not in use. Just access the site and give it a minute to wake up. It will be online again shortly. Also, some maybe only have details but no site. That's because those need to run locally. So for this or any other if you need real source code then contact me.
 
 
 <details>
@@ -333,5 +332,83 @@ This project was created to practice core game logic, DOM manipulation, and Java
 
 </details>
 
+<details>
+  <summary>
+    <h2 align="center">8. Dev Manager – Essential Task Edition</h2>
+  </summary>
+
+  <br>
+    <p align="center">
+    <img src="https://i.pinimg.com/originals/8f/6b/20/8f6b207d52a5541b5e720e2bcbbe4ed2.png" alt="Shourav Webtech" width="1200">
+    </p>
+
+### ⏩ Overview
+**Dev Manager – Essential Task Edition** is a clean and beginner-friendly task management web app designed for organizing daily tasks efficiently. It focuses on simplicity, usability, and core task management features.
+
+**Access Site:**  <a href="https://dev-manager-v1.onrender.com/" target="_blank" style="color:#0d6efd; font-weight:600;" rel="noopener noreferrer">Dev Manager (ETE)</a>
+
+
+### ⏩ What This Project Does
+This project allows users to create, manage, and track tasks with due dates and priorities, helping maintain productivity through a structured task list.
+
+### ⏩ Technical Summary
+- Built with HTML, CSS, and Vanilla JavaScript
+- Simple procedural structure for clarity
+- LocalStorage for saving tasks
+- Responsive and lightweight UI
+
+### ⏩ Key Features
+- Add, delete, and mark tasks as done
+- Task filtering (Active / Done)
+- Search and sorting system
+- Priority and due date management
+- Undo delete functionality
+- Quick add (Today / Tomorrow)
+
+### ⏩ Purpose of This Project
+This project was built for practicing DOM manipulation, event handling, and building a real-world productivity tool while keeping the implementation simple and understandable.
+
+</details>
+
+<details>
+  <summary>
+    <h2 align="center">9. Dev Manager – Advanced Productivity Edition</h2>
+  </summary>
+
+  <br>
+    <p align="center">
+    <img src="https://i.pinimg.com/originals/84/d5/0a/84d50a0145ac540344ed3ca2cdb28f64.png" alt="Shourav Webtech" width="1200">
+    </p>
+
+### ⏩ Overview
+**Dev Manager – Advanced Productivity Edition** is an enhanced version of the task manager with a modern UI, extended features, and improved user experience. It builds upon the basic version by adding more flexibility and advanced task handling.
+
+**Access Site:**  <a href="https://dev-manager-v2.onrender.com/" target="_blank" style="color:#0d6efd; font-weight:600;" rel="noopener noreferrer">Dev Manager (APE)</a>
+
+### ⏩ What This Project Does
+This version provides a more powerful task management experience with advanced controls, better UI interactions, and extended functionality for managing tasks efficiently.
+
+### ⏩ Technical Summary
+- Built with HTML, CSS, and Vanilla JavaScript
+- Improved UI with modern design (glassmorphism style)
+- LocalStorage with structured task handling
+- Modal-based task creation and editing
+
+### ⏩ Key Features
+- Add, edit, and delete tasks
+- Notes support inside tasks
+- Import and export tasks (JSON)
+- Advanced search and sorting
+- Undo delete system
+- Modal-based task management UI
+- Keyboard shortcuts and quick actions
+
+### ⏩ Version Difference Note
+Compared to the Essential Task Edition, this version includes advanced UI design, task editing, notes, import/export functionality, and a more structured and interactive workflow.
+
+### ⏩ Purpose of This Project
+This project was created to expand on the basic version by implementing more advanced features, improving UI/UX design, and practicing scalable front-end architecture.
+
+</details>
 
 ---

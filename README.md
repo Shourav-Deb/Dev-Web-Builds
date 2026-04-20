@@ -257,4 +257,81 @@ This repository exists to:
   This project is solely a personal learning exercise intended to elevate my design and development skills. By recreating an existing site’s layout, I’m testing my ability to replicate professional designs. It is       not intended for any unauthorized use. It's strictly for practice and self-improvement.
 </details>
 
+<details>
+  <summary>
+    <h2 align="center">6. Dev Gomoku – Premium Interactive Edition</h2>
+  </summary>
+
+   <br>
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/f3/72/a0/f372a0229cc4106e22e3bc5f8fe1ed37.png" alt="Dev Gomoku V1" width="1200">
+    </p>
+
+### ⏩ Overview
+**Dev Gomoku – Premium Interactive Edition** is a polished browser-based implementation of the classic Gomoku board game, focused on smooth interaction, visual feedback, and a modern UI experience. It features animated highlights, sound effects, and a clean game flow designed for an engaging two-player experience.
+
+**To Play:** <a href="https://dev-gomoku-v1.onrender.com/" target="_blank" rel="noopener noreferrer" style="color:#00ccff; font-weight:600;">Poke Me</a>
+
+### ⏩ What This Project Does
+This project allows two players to play Gomoku on a 10×10 board directly in the browser. Players take turns placing stones, with real-time feedback, win detection, and score tracking.
+
+### ⏩ Technical Summary
+- Built with HTML, CSS, and Vanilla JavaScript
+- Modular structure using IIFE (clean scope management)
+- LocalStorage for persistent scores and player data
+- Web Audio API for sound effects
+- Responsive and modern UI design
+
+### ⏩ Key Features
+- Turn-based 2-player gameplay
+- Animated win-line highlight
+- Sound effects with toggle option
+- Undo last move functionality
+- Score tracking across rounds
+- Player name customization
+- Smooth UI with modern visual effects
+
+### ⏩ Purpose of This Project
+This project was built for practice and experimentation with JavaScript game logic, UI interaction, and browser-based storage, while also creating a simple game for fun and learning.
+
+</details>
+
+<details>
+  <summary>
+    <h2 align="center">7. Dev Gomoku – Classic Logic Edition</h2>
+  </summary>
+
+   <br>
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/ad/6d/3a/ad6d3a1b61afd87e4b6a4a250b472882.png" alt="Dev Gomoku V1" width="1200">
+    </p>
+
+### ⏩ Overview
+**Dev Gomoku – Classic Logic Edition** is a simplified and clean version of the Gomoku game, focused on core game mechanics and straightforward implementation. It emphasizes clarity, basic UI, and efficient gameplay logic.
+
+**To Play:** <a href="https://dev-gomoku-v2.onrender.com/" target="_blank" rel="noopener noreferrer" style="color:#00ccff; font-weight:600;">Poke Me</a>
+
+### ⏩ What This Project Does
+This version provides a minimal Gomoku gameplay experience where two players take turns placing stones and compete to align five in a row.
+
+### ⏩ Technical Summary
+- Built with HTML, CSS, and Vanilla JavaScript
+- Simple procedural structure for easy understanding
+- LocalStorage for saving scores
+- Lightweight and beginner-friendly codebase
+
+### ⏩ Key Features
+- Basic 2-player gameplay
+- Keyboard shortcuts (Undo: U, Restart: R)
+- Undo functionality
+- Score tracking system
+- Player name input and updates
+- Minimal and clean UI
+
+### ⏩ Purpose of This Project
+This project was created to practice core game logic, DOM manipulation, and JavaScript fundamentals while building a simple playable browser game.
+
+</details>
+
+
 ---

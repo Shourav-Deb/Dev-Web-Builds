@@ -411,4 +411,186 @@ This project was created to expand on the basic version by implementing more adv
 
 </details>
 
+
+<details>
+  <summary>
+    <h2 align="center">10. Student Attendance – Laravel Edition</h2>
+  </summary>
+
+  <br>
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/b1/52/3d/b1523d8073a6d457caac29228f609e16.png" alt="Student Attendance Laravel Edition" width="1200">
+    </p>
+    
+  ### ⏩ Overview
+  **Student Attendance – Laravel Edition** is a structured, full-featured attendance management system built using the **Laravel framework**, designed to simulate how real-world business applications are developed using MVC architecture. This version focuses on maintainability, scalability, and clean backend structure while delivering a complete class-based attendance workflow.
+
+  **Access Site:**  
+  ⚠️ This project runs locally (no live deployment available).  
+  📩 If you want to run this project, contact me to get the full source code and setup guide.
+
+  ### ⏩ What This Project Does
+  This system allows users to create classes, manage student lists, and record attendance across multiple dates. Each class is stored in its own structured CSV file, and the system ensures validation, consistency, and data integrity across all operations.
+
+  It simulates how academic or institutional attendance systems work in real environments.
+
+  ### ⏩ Technical Summary
+  - Built using **Laravel (PHP Framework)**
+  - MVC architecture (Model-View-Controller separation)
+  - Blade templating engine for UI rendering
+  - CSV-based data storage instead of database
+  - Laravel routing, validation, and controller logic
+  - Automated setup via Laravel Herd integration
+  - Clean project structure for scalability
+  - Session-based flash messaging and validation handling
+
+  ### ⏩ Key Features Demonstrated
+  - Class creation with strict validation (course + section)
+  - Student management (add, edit, delete)
+  - Attendance tracking with status + notes per date
+  - Automatic CSV generation per class
+  - Persistent historical attendance data
+  - Error handling and validation feedback
+  - Clean UI using Blade templates
+  - Structured routing and controller logic
+
+  ### ⏩ Framework Advantage (Laravel Perspective)
+  Compared to the Node.js versions, Laravel provides:
+  - Strong **built-in structure (MVC)** which keeps code organized
+  - Easier **validation and request handling**
+  - Better **maintainability for large-scale systems**
+  - Faster development for **business-level applications**
+
+  In this project, Laravel handles:
+  - Routing cleanly via `web.php`
+  - Validation inside controllers
+  - UI separation using Blade templates
+
+  This makes the system feel closer to a **real production-ready backend application**.
+
+  ### ⏩ Purpose of This Project
+  This version demonstrates how a structured backend framework like Laravel is ideal for **scalable, maintainable, and team-based development**. It highlights how frameworks reduce complexity and enforce best practices compared to writing raw backend code.
+
+</details>
+
+<details>
+  <summary>
+    <h2 align="center">11. Student Attendance – Node.js Edition (Core HTTP)</h2>
+  </summary>
+
+  <br>
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/0b/c4/70/0bc47077d1d9268f7a93442ae9a79401.png" alt="Student Attendance Node.js Edition" width="1200">
+    </p>
+    
+  ### ⏩ Overview
+  **Student Attendance – Node.js Edition** is a fully functional attendance system built using **pure Node.js (without frameworks)**. This version focuses on understanding how backend systems work at a lower level, including manual routing, request parsing, and response handling.
+
+  **Access Site:**  
+  ⚠️ This project runs locally (no live deployment available).  
+  📩 Contact me to receive the source code and instructions to run it on your machine.
+
+  ### ⏩ What This Project Does
+  This system performs the same attendance management workflow as the Laravel version but without using any framework abstraction. All routing, data handling, and rendering logic are implemented manually.
+
+  It demonstrates how backend systems operate internally.
+
+  ### ⏩ Technical Summary
+  - Built using **Node.js core (http module)**
+  - No external frameworks or libraries required
+  - Manual routing and request handling
+  - Custom body parsing logic
+  - File-based storage using CSV
+  - Dynamic HTML rendering without templating engine
+  - Manual implementation of CRUD operations
+  - Local server execution
+
+  ### ⏩ Key Features Demonstrated
+  - Custom routing system using native HTTP server
+  - Manual form parsing and request handling
+  - Attendance system with date-based tracking
+  - CSV file creation and updates per class
+  - Full CRUD operations without framework support
+  - Error handling and validation logic implemented manually
+  - Static file serving (CSS, JS)
+
+  ### ⏩ Framework Comparison Insight
+  Compared to Laravel and Express:
+  - This version gives **full control over backend logic**
+  - Shows how routing, parsing, and rendering actually work internally
+  - Requires **more code and effort** for basic features
+
+  In this project:
+  - What Laravel does automatically → here it is done manually
+  - What Express simplifies → here is written from scratch
+
+  This makes it ideal for understanding **core backend fundamentals**.
+
+  ### ⏩ Purpose of This Project
+  This version demonstrates the **raw mechanics of backend development**. It is valuable for learning how frameworks operate behind the scenes and building a strong foundation in server-side programming.
+
+</details>
+
+<details>
+  <summary>
+    <h2 align="center">12. Student Attendance – Node.js Express Edition</h2>
+  </summary>
+
+  <br>
+    <p align="center">
+      <img src="https://i.pinimg.com/originals/fd/25/71/fd25715aa2e5cd147b203a2fcfe1e737.png" alt="Student Attendance Express Edition" width="1200">
+    </p>
+    
+  ### ⏩ Overview
+  **Student Attendance – Node.js Express Edition** is a structured backend system built using **Express.js**, designed to balance flexibility and simplicity. It provides the same functionality as the Laravel and pure Node.js versions but with cleaner routing, middleware handling, and modular architecture.
+
+  **Access Site:**  
+  ⚠️ This project runs locally (no live deployment available).  
+  📩 Contact me to get the source code and setup instructions.
+
+  ### ⏩ What This Project Does
+  This system manages student attendance with class-based organization, using Express to simplify routing and request handling while maintaining a lightweight architecture.
+
+  It bridges the gap between raw Node.js and full frameworks like Laravel.
+
+  ### ⏩ Technical Summary
+  - Built using **Node.js + Express.js**
+  - Middleware-based architecture
+  - EJS templating engine for UI rendering
+  - Express routing system
+  - Session management using `express-session`
+  - CSV-based storage system
+  - Method override for PUT and DELETE requests
+  - Static file serving via Express
+
+  ### ⏩ Key Features Demonstrated
+  - Clean route handling with Express router
+  - Middleware for request processing and validation
+  - Session-based flash messaging system
+  - Attendance tracking with multiple statuses
+  - Dynamic UI rendering using EJS templates
+  - CRUD operations with structured routing
+  - Automatic server setup via script launcher
+
+  ### ⏩ Framework Advantage (Express Perspective)
+  Compared to:
+  
+  **Pure Node.js:**
+  - Much cleaner routing system
+  - Less manual work for request handling
+  - Easier to scale and maintain
+
+  **Laravel:**
+  - More lightweight and flexible
+  - Faster to set up for JavaScript-based environments
+  - Better suited for APIs and microservices
+
+  In this project:
+  - Express simplifies backend logic compared to raw Node
+  - But still keeps flexibility unlike heavy frameworks
+
+  ### ⏩ Purpose of This Project
+  This version demonstrates how Express acts as a **middle ground between low-level control and structured frameworks**, making it ideal for modern web applications, APIs, and scalable backend systems.
+
+</details>
 ---

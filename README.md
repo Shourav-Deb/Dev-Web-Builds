@@ -475,7 +475,7 @@ This project was created to expand on the basic version by implementing more adv
 
 <details>
   <summary>
-    <h2 align="center">11. Student Attendance – Node.js Edition (Core HTTP)</h2>
+    <h2 align="center">11. Student Attendance – Node.js Edition</h2>
   </summary>
 
   <br>
